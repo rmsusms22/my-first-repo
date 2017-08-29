@@ -1,4 +1,5 @@
 Welcome to
 Learning gi is going
 the line added in update-readme branch
-windy outside today
+added this line in the update-readme branch
+cloudy outside today
