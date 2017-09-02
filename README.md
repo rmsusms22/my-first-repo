@@ -9,7 +9,7 @@ I live in Seoul, Republic of Korea.
 Three of my favorite books are:
 - *To kill a mocking bird* 
 - *Master Algorithm*
-- *Deep Learning with TensorFlost*
+- *Deep Learning with TensorFlow*
 
 ### Food
 1. Wine
